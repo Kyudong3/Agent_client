@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Agent_Client</string>
+
+    <!-- 로그인 화면 Strings -->
+    <string name="login_toolbar">로 그 인</string>
+    <string name="username_hint">아이디</string>
+    <string name="password_hint">비밀번호</string>
+    <string name="contentDescription">TODO</string>
+    <string name="findId">아이디 찾기</string>
+    <string name="signUp">회원가입</string>
+    <string name="authLogin">자동로그인</string>
+
+    <!-- IMAGE DESCRIPTION -->
+    <string name="desc">image description</string>
+
+    <!-- 회원 가입 Strings -->
+    <string name="signUp_toolbar">회 원 가 입</string>
+    <string name="signUp_username">아이디 입력</string>
+    <string name="signUp_pwd">비밀번호 입력</string>
+    <string name="signUp_phone">전화번호 입력</string>
+    <string name="signUp_addr">주소 입력</string>
+    <string name="signUp_phoneTxv">전화번호(-빼고 입력)</string>
+    <string name="signUp_addrTxv">주소</string>
+    <string name="title_activity_board2">Board2</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- 게시판 메뉴 Strings -->
+
+    <string name="board_toolbar">게 시 판</string>
+    <string name="menu_free">자유게시판</string>
+    <string name="menu_district">지역별</string>
+
+    <string name="menu_seoul">서울</string>
+    <string name="menu_gwangju">광주</string>
+    <string name="menu_daegu">대구</string>
+    <string name="menu_daejeon">대전</string>
+    <string name="menu_busan">부산</string>
+    <string name="menu_ulsan">울산</string>
+    <string name="menu_incheon">인천</string>
+    <string name="menu_jeju">제주</string>
+    <string name="menu_ulleungdo">울릉도</string>
+
+    <!-- 게시판 글쓰기 Strings -->
+    <string name="write_title">제 목</string>
+    <string name="write_content">내 용</string>
+    <string name="write_button">작 성 하 기</string>
+    <string name="content_hint">내용을 입력하세요</string>
+
+    <!-- 상당 메뉴 Strings -->
+    <string name="logoutMenu">로그아웃</string>
+    <string name="refreshMenu">새로고침</string>
+
+    <!-- Dialog 메뉴 -->
+    <string name="dialogTxv">로그아웃 하시겠습니까?</string>
+
+
+    <!-- 댓글 -->
+    <string name="commentTxv">댓 글</string>
+    <string name="commentAnonymous">익 명</string>
+    <string name="commentEdtxtHint">댓글을 입력하세요..</string>
+    <string name="commentRegisterBtn">등 록</string>
+
+
+    <!-- 게시판 공지사항 -->
+    <string name="notice">공지</string>
+    <string name="noticeText">사회복무요원 게시판 어플리케이션입니다 </string>
+    <string name="noticeTime">18/04/05</string>
+</resources>

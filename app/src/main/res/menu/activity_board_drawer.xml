@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/free"
+            android:icon="@drawable/ic_message_black_24dp"
+            android:title="@string/menu_free" />
+    </group>
+
+    <item android:title="@string/menu_district">
+        <menu>
+            <item
+                android:id="@+id/Seoul"
+                android:icon="@drawable/ic_location_on_black_36dp"
+                android:title="@string/menu_seoul" />
+            <item
+                android:id="@+id/GwangJu"
+                android:icon="@drawable/ic_location_on_black_36dp"
+                android:title="@string/menu_gwangju" />
+            <item
+                android:id="@+id/Daegu"
+                android:icon="@drawable/ic_location_on_black_36dp"
+                android:title="@string/menu_daegu" />
+            <item
+                android:id="@+id/Daejeon"
+                android:icon="@drawable/ic_location_on_black_36dp"
+                android:title="@string/menu_daejeon" />
+            <item
+                android:id="@+id/Busan"
+                android:icon="@drawable/ic_location_on_black_36dp"
+                android:title="@string/menu_busan" />
+            <item
+                android:id="@+id/Ulsan"
+                android:icon="@drawable/ic_location_on_black_36dp"
+                android:title="@string/menu_ulsan" />
+            <item
+                android:id="@+id/Incheon"
+                android:icon="@drawable/ic_location_on_black_36dp"
+                android:title="@string/menu_incheon" />
+            <item
+                android:id="@+id/Jejudo"
+                android:icon="@drawable/ic_location_on_black_36dp"
+                android:title="@string/menu_jeju" />
+            <item
+                android:id="@+id/Ulleungdo"
+                android:icon="@drawable/ic_location_on_black_36dp"
+                android:title="@string/menu_ulleungdo" />
+        </menu>
+    </item>
+
+</menu>
